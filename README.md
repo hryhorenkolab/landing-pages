@@ -1,2 +1,3 @@
 # landing-pages
-Landing pages for the internet shops
+
+Landing Page Designs of the bands of the different companies.
